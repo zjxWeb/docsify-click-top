@@ -7,6 +7,6 @@ A plugin that clicks back to the top of the document.
 Add following script tag to your index.html after docsify.
 
 ```js
-<script src="./src"></script>
+<script src="https://cdn.jsdelivr.net/gh/zjxWeb/docsify-click-top@main/src/docssify-click-top.js"></script>
 ```
 
