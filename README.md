@@ -1,6 +1,6 @@
 # docsify-click-top
 
-A plugin that clicks back to the top of the document.
+When you slide the document to a certain distance, a button will appear, which can be clicked to quickly reach the top of the document.
 
 ## Installation
 
